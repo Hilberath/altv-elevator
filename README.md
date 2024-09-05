@@ -47,3 +47,5 @@ Ein kleines Skript zum erstellen von Fahrstühlen mit einer UI.
 - [ ] Position sowie Namen der Etagen in der Datenbank aufrufbar
 
 ## Screenshots
+
+![alt text](https://i.imgur.com/RhjRg4V.png)
