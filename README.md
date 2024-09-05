@@ -1,4 +1,4 @@
-# # altv-elevator
+# altv-elevator
 
 ## English
 
@@ -7,8 +7,8 @@ A small script for creating elevators with a UI.
 ### How to install?
 
 1. Unpack .rar file
-2. Put '# altv-elevator' folder to your 'resources' folder
-3. in server.toml add '# altv-elevator' in "resources"
+2. Put 'altv-elevator' folder to your 'resources' folder
+3. in server.toml add 'altv-elevator' in "resources"
 
 ### How do I open the menu?
 
@@ -30,8 +30,8 @@ Ein kleines Skript zum erstellen von Fahrstühlen mit einer UI.
 ### Wie installiert man es?
 
 - Die .rar-Datei entpacken
-- Ordner '# altv-elevator' in den 'resources'-Ordner verschieben
-- In server.toml '# altv-elevator' zu "resources" hinzufügen
+- Ordner 'altv-elevator' in den 'resources'-Ordner verschieben
+- In server.toml 'altv-elevator' zu "resources" hinzufügen
 
 ### Wie öffne ich das Menü?
 
