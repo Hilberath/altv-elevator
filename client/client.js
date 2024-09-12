@@ -15,15 +15,6 @@ const elevators = [
       { etage: "-1", desc: "Garage, Zellen", position: { x: 467.63, y: -975.71, z: 25.45 }, heading: 3.07 },
     ],
   },
-  {
-    id: 2,
-    position: { x: 458.58, y: -990.25, z: 30.71 },
-    floors: [
-      { etage: "EG", desc: "V-Change", position: { x: 458.58, y: -990.25, z: 30.71 }, heading: 3.07 },
-      { etage: "2", desc: "Teambereich", position: { x: 465.63, y: -976.07, z: 39.41 }, heading: 1.58 },
-      { etage: "1", desc: "Büros", position: { x: 465.63, y: -976.07, z: 35.06 }, heading: 1.58 },
-    ],
-  },
 ];
 
 function showElevatorMenu(elevatorId, floors) {
